@@ -1,3 +1,56 @@
+/* Lezo HTML Template */
+
+/************ TABLE OF CONTENTS ***************
+1. Fonts
+2. Reset
+3. Global
+4. Main Header / Style Two
+5. Main Slider
+6. Services Section
+7. Fluid Section
+8. Counter Section
+9. Cases Section
+10. Advisors Section
+11. Clients Section
+12. News Section
+13. Testimonial Section
+14. Graph Section
+15. Subscribe Section
+16. Main Footer
+17. Info Section
+18. About Section
+19. Call To Action Section
+20. What We Do Section
+21. Working Section
+22. Video Section
+23. Projects Section
+24. Page Title
+25. Price Section
+26. Carrers Section
+27. Faq Section
+28. Partners Section
+29. Comming Soon Section
+30. Services Single Section
+31. Gallery Section
+32. Gallery Grid Section
+33. Gallery Fullwidth Section
+34. Gallery Fullwidth Section Two
+35. Gallery Single Section
+36. Shop Items
+37. Shop Single Section
+38. Shoping Cart Section
+39. Checkout Section
+40. Login Section
+41. Blog Section
+42. Blog Left Sidebar Section
+43. Blog Classic Section
+44. Blog Single Section
+45. Error Section
+46. Contact Form
+47. Map Section
+
+**********************************************/
+
 @import url('https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i');
 
 /*font-family: 'Poppins', sans-serif;
